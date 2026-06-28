@@ -1,6 +1,6 @@
-# e6x1 - s256
+# Singularity - e1x1
 
-[← e1x1 - e6x1](../e1x1-e6x1/README.md) | [Hub](../README.md) | [s256 - e7x10 →](../s256-e7x10/README.md)
+[← 1e15 expo - Singularity](1e15%20Expo%20-%20Singularity.md) | [Hub](Synergism%20Guide%20Hub.md) | [e1x1 - e6x1 →](e1x1%20-%20e6x1.md)
 
 ---
 

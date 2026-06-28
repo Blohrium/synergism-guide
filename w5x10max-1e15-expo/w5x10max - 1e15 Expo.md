@@ -1,6 +1,6 @@
-# s256 - e7x10
+# w5x10max - 1e15 Expo
 
-[← e6x1 - s256](../e6x1-s256/README.md) | [Hub](../README.md) | [e7x10 - End →](../e7x10-end/README.md)
+[← c10x1 - w5x10max](c10x1%20-%20w5x10max.md) | [Hub](Synergism%20Guide%20Hub.md) | [1e15 expo - Singularity →](1e15%20Expo%20-%20Singularity.md)
 
 ---
 

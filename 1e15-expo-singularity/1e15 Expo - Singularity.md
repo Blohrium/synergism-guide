@@ -1,6 +1,6 @@
-# c10x1 - w5x10max
+# 1e15 Expo - Singularity
 
-[← Start Here](../start-here/README.md) | [Hub](../README.md) | [w5x10max - 1e15 expo →](../w5x10max-1e15-expo/README.md)
+[← w5x10max - 1e15 expo](w5x10max%20-%201e15%20Expo.md) | [Hub](Synergism%20Guide%20Hub.md) | [Singularity - e1x1 →](Singularity%20-%20e1x1.md)
 
 ---
 

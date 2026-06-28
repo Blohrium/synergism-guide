@@ -1,6 +1,6 @@
 # Start Here - c10x1
 
-[Hub](../README.md) | [c10x1 - w5x10max →](../c10x1-w5x10max/README.md)
+[Hub](Synergism%20Guide%20Hub.md) | [c10x1 - w5x10max →](c10x1%20-%20w5x10max.md)
 
 ---
 
