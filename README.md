@@ -1,7 +1,6 @@
 # Synergism Guide Hub
 
 ## Navigation
-
 Children:
 - [Start Here - c10x1](Start%20Here%20-%20c10x1/Start%20Here%20-%20c10x1.md)
 - [c10x1 - w5x10](c10x1%20-%20w5x10/c10x1%20-%20w5x10.md)
