@@ -12,6 +12,10 @@
 
 *Content pending.*
 
-## Questions
+## FAQ
 
-<!-- Paste Discord questions here -->
+<!-- Paste common Discord questions here with answers -->
+
+## Feedback
+
+<!-- Perceived gaps or unclear sections in this guide -->
