@@ -2,7 +2,7 @@
 
 ## Navigation
 
-Parent: [[Synergism Guide Hub]] | [Hub](..Synergism Guide Hub.md)
+Parent: [[README]] | [Hub](..Synergism Guide Hub.md)
 Next: [c10x1 - w5x10max](../c10x1-w5x10max/c10x1-w5x10max.md)
 
 ## Discord
