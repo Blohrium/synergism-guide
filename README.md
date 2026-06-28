@@ -15,8 +15,8 @@ Community guide for [Synergism](https://synergism.cc/). Verified against source 
 - [e7x10 - End](e7x10-end/README.md)
 
 ## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+test push
+See [CONTRIBUTING.md](CONTRIBUTING.md). 
 
 ## Using as Obsidian Vault
 
