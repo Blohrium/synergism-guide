@@ -118,6 +118,8 @@ Node-scoped feedback (things only relevant to one file) stays in that file's Fee
 - Section headers use title case: `## Beta - 1e15 Expo`.
 - Navigation links to `README.md`, not any other variant.
 - Corruption loadouts listed top to bottom as shown in the corruption screen — not import order. Always note this where loadouts appear.
+- No em dashes. Use hyphens or rewrite the sentence.
+- Lists of term/definition pairs (abbreviations, codes, etc.) are tables, not paragraphs or vertical stacks.
 - No spoiler text — write plainly.
 
 ---

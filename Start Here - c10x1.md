@@ -13,29 +13,16 @@ Checkpoint spine:
 <details>
 <summary>Abbreviations</summary>
 
-cu / du / mu / gu / au / pu
-Coin / Diamond / Mythos / Generator / Automation Shop / Particle Upgrades
-
-CB / DB / MB / PB / TB
-Coin / Diamond / Mythos / Particle / Tesseract Buildings
-
-AP
-Achievement Points
-
-Dup, SI, IA, AoAG
-Runes: Duplication, Superior Intellect, Infinite Ascent, Antiquities of Ant God
-
-Off / Obt
-Offering Potion (Shift+O) / Obtainium Potion (Shift+P)
-
-row x col
-r5x17 Research / c3x2 Challenges / e1x1 Exalts / w5x10 Wowcube / p2x1x10 Platonic
-
-p0 / t0 / r0 / a0 / s0
-Prestige / Transcend / Reincarnation / Ascension / Singularity resets
-
-PTR
-Prestige / Transcend / Reincarnation
+| Abbreviation | Meaning |
+|---|---|
+| cu / du / mu / gu / au / pu | Coin / Diamond / Mythos / Generator / Automation Shop / Particle Upgrades |
+| CB / DB / MB / PB / TB | Coin / Diamond / Mythos / Particle / Tesseract Buildings |
+| AP | Achievement Points |
+| Dup / SI / IA / AoAG | Runes: Duplication / Superior Intellect / Infinite Ascent / Antiquities of Ant God |
+| Off / Obt | Offering Potion (Shift+O) / Obtainium Potion (Shift+P) |
+| row x col | r5x17 Research / c3x2 Challenges / e1x1 Exalts / w5x10 Wowcube / p2x1x10 Platonic |
+| p0 / t0 / r0 / a0 / s0 | Prestige / Transcend / Reincarnation / Ascension / Singularity resets |
+| PTR | Prestige / Transcend / Reincarnation |
 
 </details>
 
@@ -70,26 +57,15 @@ Prestige / Transcend / Reincarnation
 <details>
 <summary>Promo codes (Settings -> Special Actions)</summary>
 
-`synergism2021`
-25 Offerings, 50 Quarks. Once per Singularity.
-
-`Khafra`
-100-400 Quarks. Once per Singularity.
-
-`:unsmith:` / `unsmith`
-Grants the Unsmith achievement (+5 AP).
-
-`:antismith:` / `antismith` / `:smith:` / `smith`
-Grants the Smith achievement (+5 AP).
-
-`alonso bribe`
-Free Quarkhept expand. One-time. No benefit until the hept forge is unlocked.
-
-`spoiler`
-Shows your Octeract gain rate if Octeracts are unlocked.
-
-`sub`
-Use at own risk.
+| Code | Effect |
+|---|---|
+| `synergism2021` | 25 Offerings, 50 Quarks. Once per Singularity. |
+| `Khafra` | 100-400 Quarks. Once per Singularity. |
+| `:unsmith:` / `unsmith` | Grants the Unsmith achievement (+5 AP). |
+| `:antismith:` / `antismith` / `:smith:` / `smith` | Grants the Smith achievement (+5 AP). |
+| `alonso bribe` | Free Quarkhept expand. One-time. No benefit until the hept forge is unlocked. |
+| `spoiler` | Shows your Octeract gain rate if Octeracts are unlocked. |
+| `sub` | Use at own risk. |
 
 </details>
 

@@ -2,7 +2,7 @@
 
 ## Navigation
 Children:
-- [Start Here - c10x1](Start%20Here%20-%20c10x1/Start%20Here%20-%20c10x1.md)
+- [Start Here - c10x1](Start%20Here%20-%20c10x1.md)
 - [c10x1 - w5x10](c10x1%20-%20w5x10/c10x1%20-%20w5x10.md)
 - [w5x10 - 1e15 Expo](w5x10%20-%201e15%20Expo/w5x10%20-%201e15%20Expo.md)
 - [1e15 Expo - Singularity](1e15%20Expo%20-%20Singularity/1e15%20Expo%20-%20Singularity.md)
