@@ -1,7 +1,8 @@
-# Talismans
+# Talismans - Start Here
 
 ## Navigation
 - [README](../README.md)
+- See also: [Talismans - Post Singularity](Talismans%20-%20Post%20Singularity.md)
 
 ---
 
@@ -31,8 +32,6 @@ Talismans cannot be respecced — older pins suggesting respec are outdated.
 | Chronos | c7x25 | Global Speed |
 | Preserved Ant | 1e300 Crumbs (purchase first level of Mortuus Est Formicidae) | Ant ELO |
 
-The Wow! Square talisman should be at least Mythic before hepteract runs post-singularity — below Mythic you miss a 20% boost.
-
 ---
 
 ## FAQ
@@ -54,7 +53,7 @@ A: No. Any pins suggesting respec are outdated.
 
 ```
 Q: What does Mythic rarity do?
-A: It unlocks a Signature on the talisman in addition to its Inscription, and grants more free rune levels.
+A: Unlocks a Signature on the talisman in addition to its Inscription, and grants more free rune levels.
 ```
 
 ---
@@ -62,5 +61,4 @@ A: It unlocks a Signature on the talisman in addition to its Inscription, and gr
 ## Feedback
 
 - > ⚠ unverified: rarity threshold breakpoints (every 30 levels vs specific values like 1, 440) — needs in-game or source verification.
-- > ⚠ unverified: full talisman list beyond the three listed here — only pre-singularity relevant talismans covered; post-singularity talismans need additions.
-- Wow! Square talisman Mythic requirement for hepteract runs is from the PDF general tips section — verify it still applies in v4.1+.
+- > ⚠ unverified: full talisman list beyond the three listed here — only pre-singularity relevant talismans covered.
