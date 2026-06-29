@@ -1,9 +1,18 @@
 # Singularity - e1x1
 
 ## Navigation
-- [README Hub](../README%20Hub.md)
+- [README](../README.md)
 - Previous: [1e15 Expo - Singularity](../1e15%20Expo%20-%20Singularity/1e15%20Expo%20-%20Singularity.md)
 - Next: [e1x1 - e6x1](../e1x1%20-%20e6x1/e1x1%20-%20e6x1.md)
+
+### Checkpoints
+1. [First Singularity](#first-singularity) — buy Starter Pack, Shop Bonanza, Cookies 1 immediately
+2. [Shop Upgrade Order](#permanent-shop-upgrade-order) — WowZ and Asc Speed 3 every sing; liquidation sale from s9+
+3. [GQ Upgrade Priorities](#gq-upgrade-priorities) — packs, GQ1, Cube Flame, Shop Liquidation
+4. [Free Levels](#free-levels) — daily code rolls for free GQ upgrade levels
+5. [When to Complete a Singularity](#when-to-complete-a-singularity) — only start a new sing if you have time for AoAG
+6. [Octeracts](#octeracts) — unlock at s8+, need score above 1e23
+7. [s25 and e1x1](#s25-and-e1x1) — enter e1x1 immediately at s25; ~4–12 hours
 
 ---
 
@@ -15,13 +24,13 @@
 
 Immediately after singling, buy **Starter Pack**, **Shop Bonanza**, and **Cookies 1** from the Golden Quark shop.
 
-The new loop is completing singularities until S25, which unlocks E1x1.
+The new loop is completing singularities until s25, which unlocks e1x1.
 
 ### Permanent Shop Upgrade Order
 
 #### Shop Bonanza
 
-- **Wow Pass Z** — buy at least 100 levels at the end of S1 alongside Ascension Speed 3. Buy at the end of most singularities when not expanding qhept.
+- **Wow Pass Z** — buy at least 100 levels at the end of s1 alongside Ascension Speed 3. Buy at the end of most singularities when not expanding qhept.
 - **Ascension Speed 3** — buy at the end of every singularity unless spending on something else.
 - **Red Book** — buy when cheap; low priority.
 - **Qhept Expo 2** — too expensive early; buy post-liquidation.
@@ -29,7 +38,7 @@ The new loop is completing singularities until S25, which unlocks E1x1.
 - **Daily Code 2** — buy when cheap; do not prioritise.
 - **Instant Challenge 2** — strong QoL; removes ascension challenge resets. Buy whenever the QoL is worth it to you.
 
-#### Shop Liquidation Sale (S9+)
+#### Shop Liquidation Sale (s9+)
 
 - **Powder Conversion 2 (Insta Powder)** — buy 1 level immediately. Grants powder on orb purchase at midnight's conversion rate, eliminating the need to wait for midnight. Then buy when you can go 1→10 and 10→100.
 - **Ascension Speed 4** — buy some levels; gets expensive fast. Prefer WowZ and Asc Speed 3 if not maxed.
@@ -37,7 +46,7 @@ The new loop is completing singularities until S25, which unlocks E1x1.
 - **Qhept Expo 3** — buy when cheap; mostly a next-channel upgrade.
 - **Daily Code 3** — buy when cheap; low priority.
 - **Ambrosia Speed / Ambrosia Luck** — buy in the next channel.
-- **Wow Pass ._(lost)** — buy in the next channel when farming octs for L15 corruptions.
+- **Wow Pass ._(lost)** — buy in the next channel when farming octs for l15 corruptions.
 - **Ex Off and Obt / Cash Grab 2** — buy only when very cheap and no better options exist.
 - **Cube to Quark Corner Gain** — buy when cheap; strong quark multiplier on cube opens.
 
@@ -84,11 +93,11 @@ Only begin a new singularity if you have time to reach AoAG. Otherwise, sitting 
 
 ### Octeracts
 
-Octeracts unlock at S8+ (exact timing depends on when you buy the GQ upgrade). Octeract gain begins when ascension score exceeds 1e23. Early gains are small; only the first upgrade and some Obt/Off upgrades will be affordable. Do not focus on octeracts heavily until the next channel.
+Octeracts unlock at s8+ (exact timing depends on when you buy the GQ upgrade). Octeract gain begins when ascension score exceeds 1e23. Early gains are small; only the first upgrade and some Obt/Off upgrades will be affordable. Do not focus on octeracts heavily until the next channel.
 
-### S25 and E1x1
+### s25 and e1x1
 
-At S25, enter E1x1 immediately. Completion takes roughly 4–12 hours. GQ upgrades are disabled in E1x1 — treat it as a normal singularity with fewer stats. After E1x1, complete E1x2 while stats are still fresh.
+At s25, enter e1x1 immediately. Completion takes roughly 4–12 hours. GQ upgrades are disabled in e1x1 — treat it as a normal singularity with fewer stats. After e1x1, complete e1x2 while stats are still fresh.
 
 ---
 
@@ -101,7 +110,7 @@ A: No. Sitting in a singularity and collecting quarks/GQ/cubes from codes and da
 
 ```
 Q: When do I get Octeracts?
-A: The GQ upgrade unlocks them at S8+. You need ascension score above 1e23 to start gaining them, and early gains are very low.
+A: The GQ upgrade unlocks them at s8+. You need ascension score above 1e23 to start gaining them, and early gains are very low.
 ```
 
 ```
@@ -113,7 +122,6 @@ A: Buy Starter Pack, Shop Bonanza, and Cookies 1 from the GQ shop. Then focus on
 
 ## Feedback
 
-- Free level N (number of rolls per daily code) is not specified in the PDF; marked unverified.
 - > ⚠ unverified: exact N rolls per daily code from the free levels system — verify against source code.
-- Shop upgrade ordering is drawn directly from PDF; verify cost thresholds against current game version (v4.1+).
-- E1x1 time estimate (4–12 hours) is from PDF; may vary significantly by stats.
+- Shop upgrade ordering drawn directly from PDF; verify cost thresholds against current game version (v4.1+).
+- e1x1 time estimate (4–12 hours) is from PDF; may vary significantly by stats.

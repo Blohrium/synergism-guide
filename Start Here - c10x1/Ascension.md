@@ -1,7 +1,7 @@
 # Ascension
 
 ## Navigation
-- [Reincarnation](../Reincarnation/Reincarnation.md)
+- [Reincarnation](Reincarnation.md)
 - [Runes](../Runes/Runes.md)
 - [Talismans](../Talismans/Talismans.md)
 - [Blessings](../Blessings/Blessings.md)

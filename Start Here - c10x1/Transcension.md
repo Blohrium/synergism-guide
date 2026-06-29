@@ -2,7 +2,7 @@
 
 ## Navigation
 - [Start Here - c10x1](../Start Here - c10x1.md)
-- [Reincarnation](../Reincarnation/Reincarnation.md)
+- [Reincarnation](Reincarnation.md)
 - [More General Advice](https://discord.com/channels/677271830838640680/781220608608174140/1463360906409803816)
 
 ## Discord Block

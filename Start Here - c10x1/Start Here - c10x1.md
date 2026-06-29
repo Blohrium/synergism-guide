@@ -3,7 +3,7 @@
 ## Navigation
 - [Hub](../README Hub.md)
 - [Transcension](Transcension/Transcension.md)
-- [Reincarnation](Reincarnation/Reincarnation.md)
+- [Reincarnation](Reincarnation.md)
 
 ## Discord Block
 
