@@ -8,48 +8,7 @@ Checkpoint spine:
 [Transcension](#transcension) / [Reincarnation](#reincarnation) / [Ascension](#ascension) / [c10x1 Completion](#c10x1-completion)
 
 
-## Abbreviations & Hotkeys
-
-<details>
-<summary>Abbreviations</summary>
-
-| Abbreviation | Meaning |
-|---|---|
-| cu / du / mu / gu / au / pu | Coin / Diamond / Mythos / Generator / Automation Shop / Particle Upgrades |
-| CB / DB / MB / PB / TB | Coin / Diamond / Mythos / Particle / Tesseract Buildings |
-| AP | Achievement Points |
-| Dup / SI / IA / AoAG | Runes: Duplication / Superior Intellect / Infinite Ascent / Antiquities of Ant God |
-| Off / Obt | Offering Potion (Shift+O) / Obtainium Potion (Shift+P) |
-| row x col | r5x17 Research / c3x2 Challenges / e1x1 Exalts / w5x10 Wowcube / p2x1x10 Platonic |
-| p0 / t0 / r0 / a0 / s0 | Prestige / Transcend / Reincarnation / Ascension / Singularity resets |
-| PTR | Prestige / Transcend / Reincarnation |
-
-</details>
-
-<details>
-<summary>Hotkeys (desktop only)</summary>
-
-`A` Accelerator
-`M` Multipliers
-`B` Boosts
-`S` Sacrifice Ants
-
-`1-5` Buildings / Upgrades / Runes
-`1-0` Challenges
-`6-0` Crystal Upgrades
-
-`left / right` tabs
-`up / down` subtabs
-`C` autoChallenge
-`E` Exit T/R Challenge
-`Shift+E` Exit Ascension Challenge
-`Shift+C` Cleanse
-`N` Cancel
-`Y` / `Enter` OK
-`Ctrl+X` Hide Tab
-`Ctrl+B` Un-hide Tabs
-
-</details>
+See [Abbreviations & Hotkeys](Abbreviations%20%26%20Hotkeys.md) for abbreviations, acronyms, and hotkeys.
 
 
 ## Codes
@@ -88,7 +47,7 @@ Export your save regularly. If something goes wrong you can import and try again
 
 ## Quark Shop
 
-On first unlock: one level each in **Instant Challenge**, **Auto Offering**, and **Auto Obtainium**. These cannot be refunded. Spend remaining Quarks on **Offering/Obtainium gain**.
+On first unlock: one level each in **Instant Challenge** (upgrade 2), **Auto Offering** (upgrade 4), and **Auto Obtainium** (upgrade 5). These cannot be refunded. Spend remaining Quarks on **Offering gain** (upgrade 1) and **Obtainium gain** (upgrade 3) - these are refundable.
 
 Do not buy the **Shop Talisman** this channel. It is too expensive to level for the benefit at this stage. Do not spend Quarks on potions this channel either.
 
@@ -200,6 +159,10 @@ Do challenges when they are easy or quick. Check for completions right after a T
 
 Notable: c5 gives a prestige count multiplier, c7 gives a transcend count multiplier - always max these for PTR grinding. **c9x1 unlocks Talismans.**
 
+After c8, collect miscellaneous Achievements for AP and rewards before moving on. Get the **Thrift Rune** (Tier 5 Times Reincarnated, requires 10,000 reincarnations - set Auto Prestige and Auto Reincarnation to Time 0). Complete all remaining researches before starting c9.
+
+After c9, put 90% of Offerings on runes and 10% on blessings. Aim for ~e15,000 Particles before your first Ant Sacrifice.
+
 
 ## Runes
 
@@ -236,6 +199,8 @@ Rarity thresholds grant free rune levels. At Mythic rarity, a talisman gains a S
 
 Blessings improve rune effectiveness and are purchased with Offerings. They do not reset on Ascension - spend leftover Offerings into Blessings before ascending rather than leaving them unused. Level roughly evenly by cost.
 
+If Blessings or Spirits won't level despite having enough Offerings, check the red/yellow input box next to the level button. The default value is 0, which tells the game to buy 0 levels. Set it to 1 or higher.
+
 
 ## Research
 
@@ -252,26 +217,39 @@ r5x19-r5x20 - often affordable from leftover Obtainium after early ascensions.
 
 Ant Sacrifice requires 1e40 Crumbs. Click the ant icon or press `S`. Do your first sacrifice immediately for the ant speed boost.
 
-Subsequent sacrifices yield Immortal Elo, Offerings, Obtainium, Fragments, and Anthill Count.
+Subsequent sacrifices yield Immortal Elo, Offerings, Obtainium, Fragments, and Anthill Count. After getting Particle Upgrade 20, grind for Anthill by holding S or sacrificing whenever the icon lights up.
+
+Your Anthill Count buffs Particle Upgrade 20, Research r5x17, and completes Anthill Sacrificed achievements for AP and rewards.
+
+Anthill grind targets:
+350 anthills -> 3,100 elo -> ~e270 crumbs -> 5,000 anthills -> e300 crumbs and mythic ant talisman -> 62,000 anthills -> ~e319 crumbs
+
+PTR grind for AP: set Auto Prestige and Auto Reincarnation to Time 0. Tier 8 Times Transcended is enough for this channel.
+
+Auto Prestige on at Time 0 also speeds up Anthill Sacrifices by about 0.1-0.3 seconds.
 
 Ant time accrues before you reach the Ants mechanic after ascending. If you need to AFK, ascending early to accumulate Ant time can be better than sitting at the end of your ascension.
 
 Key crumb milestones:
 
 1e300 Crumbs - purchase first level of Mortuus Est Formicidae to unlock the Preserved Ant Talisman.
-1e315 Galactic Crumbs - enough Coin Multiplier to complete c10x1.
+1e315-1e320 Galactic Crumbs - enough Coin Multiplier to complete c10x1.
 
 
 ## Ascension
 
-Ascend as soon as possible. You mainly want the cubes. Before ascending, spend extra Offerings into Blessings - they persist through Ascension.
+Ascend as soon as possible - 1,000 cubes is enough. You mainly want the cubes. Before ascending, spend extra Offerings into Blessings - they persist through Ascension. If you have a Synergism account, ascending during a Happy Hour Bell is worth it for the bonus.
+
+After ascending, max the first cube upgrade. Put remaining cubes into cube tributes.
+
+You will lose your Anthill Count after the first Ascension. After your second Ascension, Achievement Ascension Tier 2 means you keep Anthill Count until the next reset layer - this significantly speeds up your fourth Ascension.
 
 **WoW! Pass v1** unlocks after your first Ascension and gives a bonus to 3D cubes. For the first few ascensions: respec Quarks from Ant Speed to WoW Pass 1 before ascending, then back to Ant Speed after.
 
 
 ## c10x1 Completion
 
-Reach 1e315 Galactic Crumbs for enough Coin Multiplier to complete c10x1, then proceed to the next channel.
+Reach 1e315-1e320 Galactic Crumbs for enough Coin Multiplier to complete c10x1, then proceed to the next channel.
 
 
 ## FAQ
@@ -396,6 +374,27 @@ Reach 1e40 Crumbs, then click the ant icon or press S.
 </details>
 
 <details>
+<summary>Why can't I level Blessings or Spirits even though I have enough Offerings?</summary>
+
+Check the red/yellow input box next to the level button. The default value is 0, which tells the game to buy 0 levels. Set it to 1 or higher.
+
+</details>
+
+<details>
+<summary>What is the Anthill Count and why does it matter?</summary>
+
+Anthill Count is gained from Ant Sacrifices. It buffs Particle Upgrade 20 and Research r5x17, and completing Anthill Sacrificed achievements gives AP and rewards. Grind it after getting Particle Upgrade 20 by holding S or sacrificing whenever the icon lights up.
+
+</details>
+
+<details>
+<summary>Do I lose my Anthill Count when I Ascend?</summary>
+
+Yes, after your first Ascension. After your second Ascension, Achievement Ascension Tier 2 means you keep Anthill Count until the next reset layer.
+
+</details>
+
+<details>
 <summary>When should I do my first Ant Sacrifice?</summary>
 
 Immediately - it gives an ant speed boost right away.
@@ -409,8 +408,6 @@ Immediately - it gives an ant speed boost right away.
 - 1.3e16 Diamond threshold - confirm whether exact or approximate.
 - Mythos thresholds throughout Reincarnation are approximate (~) - tighten if source values are available.
 - 1e90 Diamonds -> Automation Shop, Accelerator Boost 1e179 - the 1e179 figure needs source verification.
-- Red research AFK concern (Ascension section) is vague - identify specific research IDs.
-- r5x19-r5x20 referenced but not explained - verify what they provide.
 - Time code window - pins say 2,500ms, source may say 1,000ms - resolve against source.
 - WoW Pass v1 cube bonus magnitude needs source verification.
 - Generator Achievement unlock conditions need source verification.
@@ -419,3 +416,9 @@ Immediately - it gives an ant speed boost right away.
 - Salvage cost reduction formula not documented - needs source.
 - Blessing cost formula noted as unverified in source pins - needs source.
 - Rune level targets (Speed 500/560, Duplication 130/160) from pins - verify against current version.
+- Anthill grind targets (350 -> 3,100 elo -> e270 crumbs etc.) from checklist pin - verify these are current.
+- Quark Shop upgrade numbers (1-5) need confirming against current in-game order.
+- r5x17 listed as buffed by Anthill Count - verify in source.
+- "Miscellaneous Achievements" after c8 is vague - identify and list them specifically.
+- Thrift Rune unlock condition (Tier 5 Times Reincarnated, 10,000 reincarnations) needs source verification.
+- e15,000 Particles target before first sacrifice needs source verification.

@@ -2,8 +2,8 @@
 
 ## Navigation
 - [README](../README.md)
-- Previous: [1e15 Expo - Singularity](../1e15%20Expo%20-%20Singularity/1e15%20Expo%20-%20Singularity.md)
-- Next: [e1x1 - e6x1](../e1x1%20-%20e6x1/e1x1%20-%20e6x1.md)
+- Previous: [1e15 Expo - Singularity](1e15%20Expo%20-%20Singularity.md)
+- Next: [e1x1 - e6x1](e1x1%20-%20e6x1.md)
 
 ### Checkpoints
 1. [First Singularity](#first-singularity) — buy Starter Pack, Shop Bonanza, Cookies 1 immediately

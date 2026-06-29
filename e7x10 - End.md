@@ -2,7 +2,7 @@
 
 ## Navigation
 - [README](../README.md)
-- Previous: [s256 - e7x10](../s256%20-%20e7x10/s256%20-%20e7x10.md)
+- Previous: [s256 - e7x10](s256%20-%20e7x10.md)
 
 ### Checkpoints
 1. [General Tactics for e6](#general-tactics-for-e6) — auto buyer setup, routing order, Hyperflux swap timing
