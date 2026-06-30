@@ -8,30 +8,30 @@
 
 ### General
 
-| Abbreviation | Meaning |
-|---|---|
-| cu / du / mu / gu / au / pu | Coin / Diamond / Mythos / Generator / Automation Shop / Particle Upgrades |
-| CB / DB / MB / PB / TB | Coin / Diamond / Mythos / Particle / Tesseract Buildings |
-| AP | Achievement Points |
-| Off / Obt | Offering Potion (Shift+O) / Obtainium Potion (Shift+P) |
-| Dup / SI / IA / AoAG | Runes: Duplication / Superior Intellect / Infinite Ascent / Antiquities of Ant God |
-| PTR | Prestige / Transcend / Reincarnation |
-| p0 / t0 / r0 / a0 / s0 | Prestige / Transcend / Reincarnation / Ascension / Singularity resets |
-| row x col | r5x17 Research / c3x2 Challenges / e1x1 Exalts / w5x10 Wowcube / p2x1x10 Platonic |
-| rAxB | Research row A, column B (e.g. r1x21, r5x5, r8x25) |
-| wAxB | Cube Upgrade row A, column B (e.g. w2x2, w3x8, w5x10) |
-| pAxB | Platonic Upgrade row A, column B (e.g. p1x1, p2x5, p4x2) |
-| Cx | Challenge x (e.g. c10, c13) |
-| c1, c2, c3... | Challenge 1, Challenge 2, Challenge 3... |
-| c15 expo | Best Challenge 15 exponent |
-| e[x]x[y] | Exalt [x] completion [y] (e.g. e1x1, e6x25) |
-| s[num] / sing[num] | Singularity [num] (e.g. s25, s256) |
-| Plat(s) | Platonic Cube(s) - may also refer to Platonic calculators or the Platonic currency |
-| Hept(s) | Hepteract(s) |
-| GQ | Golden Quark |
-| Tribute / Gift / Benediction / Plat | Opened Cubes / Tesseracts / Hypercubes / Platonic Cubes |
-| yamb / amb | Yellow Ambrosia |
-| ramb | Red Ambrosia |
+| Abbreviation                        | Meaning                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------- |
+| cu / du / mu / gu / au / pu         | Coin / Diamond / Mythos / Generator / Automation Shop / Particle Upgrades          |
+| CB / DB / MB / PB / TB              | Coin / Diamond / Mythos / Particle / Tesseract Buildings                           |
+| AP                                  | Achievement Points                                                                 |
+| Off / Obt                           | Offering Potion (Shift+O) / Obtainium Potion (Shift+P)                             |
+| Dup / SI / IA / AoAG                | Runes: Duplication / Superior Intellect / Infinite Ascent / Antiquities of Ant God |
+| PTR                                 | Prestige / Transcend / Reincarnation                                               |
+| p0 / t0 / r0 / a0 / s0              | Prestige / Transcend / Reincarnation / Ascension / Singularity resets              |
+| row x col                           | r5x17 Research / c3x2 Challenges / e1x1 Exalts / w5x10 Wowcube / p2x1x10 Platonic  |
+| rAxB                                | Research row A, column B (e.g. r1x21, r5x5, r8x25)                                 |
+| wAxB                                | Cube Upgrade row A, column B (e.g. w2x2, w3x8, w5x10)                              |
+| pAxB                                | Platonic Upgrade row A, column B (e.g. p1x1, p2x5, p4x2)                           |
+| Cx                                  | Challenge x (e.g. c10, c13)                                                        |
+| c1, c2, c3...                       | Challenge 1, Challenge 2, Challenge 3...                                           |
+| c15 expo                            | Best Challenge 15 exponent                                                         |
+| e[x]x[y]                            | Exalt [x] completion [y] (e.g. e1x1, e6x25)                                        |
+| s[num] / sing[num]                  | Singularity [num] (e.g. s25, s256)                                                 |
+| Plat(s)                             | Platonic Cube(s) - may also refer to Platonic calculators or the Platonic currency |
+| Hept(s)                             | Hepteract(s)                                                                       |
+| GQ                                  | Golden Quark                                                                       |
+| Tribute / Gift / Benediction / Plat | Opened Cubes / Tesseracts / Hypercubes / Platonic Cubes                            |
+| yamb / amb                          | Yellow Ambrosia                                                                    |
+| ramb                                | Red Ambrosia                                                                       |
 
 ### Corruptions
 
