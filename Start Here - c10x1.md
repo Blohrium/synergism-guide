@@ -8,7 +8,7 @@ Checkpoint spine:
 [Transcension](#transcension) / [Reincarnation](#reincarnation) / [Ascension](#ascension) / [c10x1 Completion](#c10x1-completion)
 
 
-See [Abbreviations & Hotkeys](Abbreviations%20%26%20Hotkeys.md) for abbreviations, acronyms, and hotkeys.
+See [Abbreviations & Hotkeys](Abbreviations%20&%20Hotkeys.md) for abbreviations, acronyms, and hotkeys.
 
 
 ## Codes
